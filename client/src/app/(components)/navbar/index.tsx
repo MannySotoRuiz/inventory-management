@@ -67,7 +67,7 @@ export const Navbar = () => {
           <hr className="w-0 h-7 border border-solid border-l border-gray-300 mx-3" />
           <div className="flex items-center gap-3 cursor-pointer">
             <Image
-              src="https://135opydn8x.ufs.sh/f/821ba27a-c1e2-44a5-931a-4447dae1d472-xgy9i.png"
+              src="https://s3-inventory-management-app.s3.us-east-1.amazonaws.com/profile.jpg"
               alt="Profile"
               width={50}
               height={50}

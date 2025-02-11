@@ -82,12 +82,9 @@ const ProductsPage = () => {
             >
               <div className="flex flex-col items-center">
                 <Image
-                  src={
-                    "https://135opydn8x.ufs.sh/f/0a7e1ffd-8cb5-460e-b017-1f70036ca142-xgz0ch.png"
-                  }
-                  // src={`https://s3-inventorymanagement.s3.us-east-2.amazonaws.com/product${
-                  //   Math.floor(Math.random() * 3) + 1
-                  // }.png`}
+                  src={`src=https://s3-inventory-management-app.s3.us-east-1.amazonaws.com/product${
+                    Math.floor(Math.random() * 3) + 1
+                  }.png`}
                   alt={product.name}
                   width={150}
                   height={150}

@@ -82,8 +82,8 @@ export const Sidebar = () => {
         }`}
       >
         <Image
-          src="https://135opydn8x.ufs.sh/f/821ba27a-c1e2-44a5-931a-4447dae1d472-xgy9i.png"
-          alt="edstock-logo"
+          src="https://s3-inventory-management-app.s3.us-east-1.amazonaws.com/logo.jpg"
+          alt="manny-logo"
           width={27}
           height={27}
           className="rounded w-8"
